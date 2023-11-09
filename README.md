@@ -1,12 +1,12 @@
-# Nombre final del curso
+# Domina Scala
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Scala`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Este contenido está diseñado para satisfacer las necesidades de especilistas de Scala en todos los niveles de experiencia. Se divide en tres categorías: básico, intermedio y avanzado, y está diseñado para proporcionarte las habilidades y el conocimiento necesarios para abordar problemas específicos en la programación de Scala. En la sección básica, te sumergirás en los conceptos fundamentales de Scala y aprenderás las bases esenciales que necesitas para construir sobre ellas. Luego, en la categoría intermedia, profundizarás en temas más avanzados, como concurrencia y manejo de errores, lo que te permitirá desarrollar aplicaciones Scala más robustas y eficientes. Finalmente, en la sección avanzada, explorarás temas complejos como técnicas de optimización.
 
 ## Instrucciones
 
@@ -26,9 +26,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Lincy González Rojas**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
