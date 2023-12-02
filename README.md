@@ -19,10 +19,13 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - Scala versión 3.3 o superior
+   - MySQL versión 8.2 o superior
+   - Redis versión 7.2 o superior
+   - MySQL Workbench versión 8 o superior (Herramienta visual de diseño de bases de datos)
+   - Editor de Código (En el curso se usa Visual Studio Code)
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
 
 ### Docente
 
