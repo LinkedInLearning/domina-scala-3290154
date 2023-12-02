@@ -26,6 +26,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
    - Editor de Código (En el curso se usa Visual Studio Code)
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
+3. Este es un proyecto sbt normal. Puede compilar código con `sbt compile`, ejecutarlo con `sbt run` y `sbt console` iniciará un REPL de Scala 3.
 
 ### Docente
 
